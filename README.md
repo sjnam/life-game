@@ -44,6 +44,10 @@ make demo       # demo.gif — vhs로 찍는 데모 (https://github.com/charmbra
 빌드에는 [Go](https://go.dev)와 GWEB 도구(`gtangle`/`gweave`)가, 문서 조판에는
 luatex와 kotexgweb 매크로가, 데모 녹화에는 vhs가 필요하다.
 
+처음에는 [gweb-examples](https://github.com/sjnam/gweb-examples)의 한
+디렉터리였는데, 녹화한 데모까지 거느린 제 살림이 있어 2026년 11월에 따로 떼어
+냈다. 그 디렉터리를 건드린 커밋도 함께 옮겨 왔다.
+
 ## 규칙
 
 세포의 운명은 여덟 이웃 가운데 살아 있는 수 $n$ 하나로 정해진다: 죽은 칸은
