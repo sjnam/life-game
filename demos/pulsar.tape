@@ -4,7 +4,7 @@
 Output demos/pulsar.gif
 
 Set FontSize 14
-Set Width 440
+Set Width 460
 Set Height 400
 Set Padding 12
 Set TypingSpeed 60ms

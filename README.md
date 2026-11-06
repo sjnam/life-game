@@ -4,7 +4,9 @@
 하나도 쓰지 않는다 — 콘웨이에게 바둑판이 족했다면 우리에게는 ANSI 이스케이프
 코드가 족하다.
 
-![터미널에서 돌아가는 생명 게임](demos/demo.gif)
+<p align="center">
+  <img src="demos/demo.gif" alt="터미널에서 돌아가는 생명 게임">
+</p>
 
 ## 실행
 
@@ -20,7 +22,10 @@ make run                           # 40×22 격자, 밀도 0.25, 초당 10세대
 다만 이 우주는 원환면이라, 총이 쏘아 보낸 글라이더는 우주를 한 바퀴 돌아 제
 몸에 와서 박힌다. 총도 인과응보는 피하지 못한다.
 
-![걷는 것 — 글라이더](demos/glider.gif) ![명멸하는 것 — 펄사](demos/pulsar.gif)
+<p align="center">
+  <img src="demos/glider.gif" alt="걷는 것 — 글라이더" width="49%">
+  <img src="demos/pulsar.gif" alt="명멸하는 것 — 펄사" width="49%">
+</p>
 
 글라이더는 네 세대마다 대각선으로 한 칸 걷는다. 가장자리가 없는 우주라 화면
 밖으로 떨어지는 대신 반대편에서 돌아온다 — 잘 보면 모서리를 감아 도는 순간
